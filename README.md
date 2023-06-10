@@ -24,6 +24,7 @@ The test-cases directory contains a collection of test cases written for differe
 - Test steps
 - Expected results
 - Actual results (to be filled during test execution)
+
 Test cases are essential for ensuring thorough test coverage and providing a clear roadmap for manual testing.
 ## Scenarios
 The scenarios consists of detailed scenarios that represent different user workflows or use cases within the system. Scenarios help testers understand the system's behavior from end-users' perspectives and ensure that all user interactions are thoroughly tested.
