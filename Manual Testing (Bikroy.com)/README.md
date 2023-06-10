@@ -23,7 +23,7 @@ The following test artifacts are included in this project:
 - Test Cases
 - Test Metrics
 ## Contributing
-Contributions are welcome to enhance the repository with additional test artifacts, such as test cases, mindmaps, test execution reports, or test metrics, related to other modules of the BD Shop application. If you have any improvements or suggestions, please feel free to open an issue or submit a pull request. Please follow the repository's code of conduct and licensing terms.
+Contributions are welcome to enhance the repository with additional test artifacts, such as test cases, mindmaps, test execution reports, or test metrics, related to other modules of the Bikroy.com web application. If you have any improvements or suggestions, please feel free to open an issue or submit a pull request. Please follow the repository's code of conduct and licensing terms.
 ## FAQ
 
 #### Q1: How can I contribute to this project?
