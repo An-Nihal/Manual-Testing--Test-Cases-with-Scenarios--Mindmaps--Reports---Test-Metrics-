@@ -26,13 +26,13 @@ The test-cases directory contains a collection of test cases written for differe
 - Actual results (to be filled during test execution)
 Test cases are essential for ensuring thorough test coverage and providing a clear roadmap for manual testing.
 ## Scenarios
-The scenarios directory consists of detailed scenarios that represent different user workflows or use cases within the system. Scenarios help testers understand the system's behavior from end-users' perspectives and ensure that all user interactions are thoroughly tested.
+The scenarios consists of detailed scenarios that represent different user workflows or use cases within the system. Scenarios help testers understand the system's behavior from end-users' perspectives and ensure that all user interactions are thoroughly tested.
 ## Mindmaps
-The mindmaps directory contains visual representations in the form of mindmaps. These mindmaps serve as a visual aid to understand the test coverage, dependencies between different features, and potential areas of focus during testing. Testers can use mindmaps to brainstorm ideas, track testing progress, and identify any gaps in their testing efforts.
+The mindmaps contains visual representations in the form of mindmaps. These mindmaps serve as a visual aid to understand the test coverage, dependencies between different features, and potential areas of focus during testing. Testers can use mindmaps to brainstorm ideas, track testing progress, and identify any gaps in their testing efforts.
 ## Reports
-The reports directory is dedicated to storing various reports generated during manual testing. Reports may include defect reports, test execution reports, test summary reports, and any other relevant documentation. These reports provide valuable insights into the testing progress, identified issues, and overall test results.
+The reports are dedicated to storing various reports generated during manual testing. Reports may include defect reports, test execution reports, test summary reports, and any other relevant documentation. These reports provide valuable insights into the testing progress, identified issues, and overall test results.
 ## Test Metrics
-The test-metrics directory contains metrics and measurements related to manual testing. Testers can track metrics such as test coverage, defect density, test execution time, and other relevant metrics to assess the quality and progress of testing activities. The metrics help identify areas of improvement and provide quantitative data for making informed decisions.
+The test-metrics contains metrics and measurements related to manual testing. Testers can track metrics such as test coverage, defect density, test execution time, and other relevant metrics to assess the quality and progress of testing activities. The metrics help identify areas of improvement and provide quantitative data for making informed decisions.
 ## FAQ
 
 #### Q1: How can I contribute to this project?
